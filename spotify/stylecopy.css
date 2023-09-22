@@ -1,0 +1,9 @@
+nav ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.brand img{
+    width: 44px;
+   
+}

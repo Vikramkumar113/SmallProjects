@@ -1,0 +1,14 @@
+
+.left-part{
+    display: flex;
+}
+.logo{
+    height: 36px;
+    width: 53px;
+    margin-left: 40px;
+}
+
+.flex{
+    display: flex;
+
+}
